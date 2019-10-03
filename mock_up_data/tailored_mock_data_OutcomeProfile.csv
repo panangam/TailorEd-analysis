@@ -1,0 +1,21 @@
+section_number,gpa,race,gender
+10205,3.5,asian,m
+10205,3.5,asian,f
+10205,4.0,caucasian,m
+10205,3.2,african,m
+10205,3.2,asian,f
+10205,3.6,asian,m
+10205,4.0,african ,f
+10205,2.5,cauciasian,f
+10205,2.2,caucasian,m
+10205,2.7,caucasian,f
+10791,3.0,asian,m
+10791,2.0,asian,f
+10791,4.0,caucasian,m
+10791,3.5,african,m
+10791,2.5,asian,f
+10791,3.3,asian,m
+10791,2.2,african ,f
+10791,4.0,cauciasian,f
+10791,1.0,caucasian,m
+10791,0.0,caucasian,f
