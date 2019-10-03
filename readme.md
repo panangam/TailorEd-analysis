@@ -6,6 +6,8 @@ Currently, only prototypes for reading data and basic analysis exist.
 
 # Usage
 
+Install dependencies in the local environment using `pip install -r requirements.txt`. Using a virual environment (virtualenv, venv, etc.) is always a good idea.
+
 Not much functionality has been implemented. Contributors should start by looking at the prototype Jupyter notebooks to see basic data import.
 
 # Directories
